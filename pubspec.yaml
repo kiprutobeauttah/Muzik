@@ -1,0 +1,31 @@
+name: music_app
+description: A multiplatform music player app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  just_audio: ^0.9.34
+  just_audio_background: ^0.0.1-beta.10
+  audio_session: ^0.1.16
+  on_audio_query: ^2.9.0
+  permission_handler: ^10.4.3
+  flutter_riverpod: ^2.3.6
+  path_provider: ^2.0.15
+  flutter_svg: ^2.0.7
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
