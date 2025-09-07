@@ -7,6 +7,8 @@ Therefore this is the first version of the music player.
 ## version 1.00 20250515
 
 ### GUI
+<img src="music-player-settings.png" alt="settings-V.1-25">
+<img src="music-player-home.png" alt="home-V.1-25">
 
 ---
 *...Other Releases to be expected*
